@@ -120,7 +120,9 @@ hr {
 
 }
 #navbar{
-    border: solid;
+    border-top:solid;
+    border-right:solid;
+    border-left:solid;
     color: #fff;
     list-style: none;
     display: flex;
